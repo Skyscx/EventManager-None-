@@ -1,0 +1,6 @@
+name: EventManager
+version: '${project.version}'
+main: me.skyscx.sunland.SunLand
+api-version: 1.19
+authors: [ Skyscx ]
+description: Мероприятия для игроков. 
